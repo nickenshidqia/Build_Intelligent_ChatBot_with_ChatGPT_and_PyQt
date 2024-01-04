@@ -25,4 +25,4 @@ The aim of this project is to create a sophisticated chatbot application that le
 - **ChatGPT Integration:** Integrate with the OpenAI platform to enable seamless communication between the application and ChatGPT.
 - **PyQt GUI Design:** Implement chat windows, user input fields, and interactive elements to create a user-friendly experience.
 
-<img src="./image/chatbot.png" alt="" width = "500"/>
+<img src="./image/chatbot.png" alt="" width = "600"/>
